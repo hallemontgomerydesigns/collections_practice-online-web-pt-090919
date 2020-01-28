@@ -27,3 +27,5 @@ end
    array.reverse 
  end
  
+def kesha_maker(array)
+  array.each do 
