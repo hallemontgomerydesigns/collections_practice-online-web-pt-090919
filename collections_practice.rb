@@ -6,7 +6,8 @@ end
 
 def sort_array_desc(array)
   array.sort |a,b|
-  a.length <
+  a.length <=> b.length
+end
 end
 
  
