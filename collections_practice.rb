@@ -51,3 +51,8 @@ def add_s (array)
   array.collect do |word|
   if array [0] == 1
     word
+  else
+    word + "s"
+end
+end
+end
