@@ -30,4 +30,5 @@ end
 def kesha_maker(array)
   array.each do |dollar_sign|
     dollar_sign[2] = "$"
-    
+  end
+end
