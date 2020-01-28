@@ -34,4 +34,7 @@ def kesha_maker(array)
 end
 
 def find_a(array)
-  array.find_
+  array.find_all do |letter|
+    letter[0] == "a"
+  end
+end
