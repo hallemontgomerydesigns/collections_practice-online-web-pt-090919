@@ -38,3 +38,6 @@ def find_a(array)
     letter[0] == "a"
   end
 end
+
+def sum_array(array)
+  
