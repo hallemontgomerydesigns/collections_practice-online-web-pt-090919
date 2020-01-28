@@ -32,3 +32,6 @@ def kesha_maker(array)
     dollar_sign[2] = "$"
   end
 end
+
+def find_a(array)
+  array
